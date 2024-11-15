@@ -1,10 +1,7 @@
-This is a simple Java project demonstrating the use of Git and GitHub workflows while developing a small program with basic sorting functionality. The project includes two main features:
-1. Sorting an array of integers
-2. Sorting an array of strings
-
+This is a simple Java project demonstrating the use of Git and GitHub workflows while developing a small program with basic sorting functionality. The project includes two main features. 
 Each feature was developed on its own Git branch, following a structured Git workflow that includes branching, committing, merging, and resolving conflicts.
 
-Features
+Features:
 1. Integer Sorting: A method to sort an array of integers in ascending order.
 2. String Sorting: A method to sort an array of strings alphabetically.
 
