@@ -6,4 +6,10 @@ public class SortableArray {
         Arrays.sort(numbers);  // Sorts the integer array
         return numbers;
     }
+
+    // Method to sort an array of strings
+    public String[] sortStrings(String[] strings) {
+        Arrays.sort(strings);  // Sorts the string array
+        return strings;
+    }
 }
